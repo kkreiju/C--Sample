@@ -1,0 +1,17 @@
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\bin\Debug\net8.0-windows\hello world.exe
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\bin\Debug\net8.0-windows\hello world.deps.json
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\bin\Debug\net8.0-windows\hello world.runtimeconfig.json
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\bin\Debug\net8.0-windows\hello world.dll
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\bin\Debug\net8.0-windows\hello world.pdb
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello_world.Form1.resources
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.csproj.GenerateResource.cache
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.AssemblyInfoInputs.cache
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.AssemblyInfo.cs
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.csproj.CoreCompileInputs.cache
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.dll
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\refint\hello world.dll
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.pdb
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello world.genruntimeconfig.cache
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\ref\hello world.dll
+C:\Users\Arjay\Documents\coding\C#\hello world\hello world\obj\Debug\net8.0-windows\hello_world.Properties.Resources.resources
